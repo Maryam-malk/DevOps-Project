@@ -1,3 +1,3 @@
 "#My DevOps Project"
-"This repository is for the git and git hub."
+"This is my repository for 1st month "
 "# DevOps-Project"
